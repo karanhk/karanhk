@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Hadiyal</h1>
 <h1> About </h1>
-<h4> Pre-final year CSE student at IIITV ICD'24. I'm a python developer and loves programming. I enjoy developing and exploring data science. </h4>
+<h4> Pre-final year CSE student at IIITV ICD'24. I'm a Machine Learning developer and I love programming. I enjoy developing and exploring Machine Learning technologies. </h4>
 
 - 🔭 I’m currently working on **Face Aging**
 
