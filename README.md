@@ -2,7 +2,7 @@
 <h1> About </h1>
 <h4> Pre-final year CSE student at IIITV ICD'24. I'm a python developer and loves programming. I enjoy developing and exploring data science. </h4>
 
-- 🔭 I’m currently working on **Music Generation**
+- 🔭 I’m currently working on **Face Aging**
 
 - 🌱 I’m currently learning **AWS, Tensorflow**
 
