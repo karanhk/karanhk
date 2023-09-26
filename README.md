@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karan Hadiyal</h1>
 <h1> About </h1>
-<h4> Final year CSE student at IIITV ICD'24. I'm a Machine Learning developer and I love competitive programming. I enjoy developing and exploring Machine Learning technologies. </h4>
+<h4> Final year CSE student at IIITV ICD'24. I'm a Machine Learning developer and I love competitive programming. I enjoy developing and exploring Machine Learning technologies to solve real world problems and make life more efficient. </h4>
 
-- 🔭 I’m currently working on **Face Aging**
+- 🔭 I’m currently working on **Exerciese detection and correction using PoseNet**
 
 - 🌱 I’m currently learning **Keras, Tensorflow**
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **karanhadiyal65@gmail.com**
 
-- 📄 Resume [Link](https://drive.google.com/file/d/1DgMZKPkuvnxondEcfAim39bqo5MzWdQP/view?usp=sharing)
+- 📄 Resume [Link](https://drive.google.com/file/d/1YeC_ZkCTPRwvuW3eMCrGJB2XE7AZvln_/view?usp=sharing)
 
 <hr> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanhk&show_icons=true&locale=en" alt="karanhk"/></p>
