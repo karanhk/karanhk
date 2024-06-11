@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Karan Hadiyal</h1>
 <h1> About </h1>
-<h4> Final year CSE student at IIITV ICD'24. I'm a Machine Learning developer and I love competitive programming. I enjoy developing and exploring Machine Learning technologies to solve real world problems and make life more efficient. </h4>
+<h4> Hi, I'm pursuing an internship in data science at Zscaler, I'm about to complete my B.Tech in CSE at IIIT Vadodara - Diu campus in November 2024. I love applying AI to solve real world problem. My goal is to use AI for humanity. </h4>
 
-- 🔭 I’m currently working on **Exerciese detection and correction using PoseNet**
+- 🔭 I’m currently working on **THreat Detection at Zscaler**
 
-- 🌱 I’m currently learning **Keras, Tensorflow**
+- 🌱 I’m currently sharpening my **Data Science Skills**
 
 - 💬 Ask me about **Python, Data Science, Machine Learning**
 
