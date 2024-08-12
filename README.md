@@ -2,7 +2,7 @@
 <h1> About </h1>
 <h4> Hi, I'm pursuing an internship in data science at Zscaler, I'm about to complete my B.Tech in CSE at IIIT Vadodara - Diu campus in November 2024. I love applying AI to solve real world problem. My goal is to use AI for humanity. </h4>
 
-- 🔭 I’m currently working on **THreat Detection at Zscaler**
+- 🔭 I’m currently working on **Threat Detection at Zscaler**
 
 - 🌱 I’m currently sharpening my **Data Science Skills**
 
